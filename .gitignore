@@ -1,0 +1,23 @@
+# Compiled output
+out/
+bin/
+*.class
+
+# Runtime task data (your personal tasks - not source code)
+tasks.txt
+tasks.txt.tmp
+tasks.txt.bak
+*.txt.tmp
+*.txt.bak
+
+# IDE / editor files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
